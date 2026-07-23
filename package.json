@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "framer-motion": "^12.42.2",
+    "next": "^16.2.11",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.1",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}
